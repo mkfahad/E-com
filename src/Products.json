@@ -1,0 +1,82 @@
+{
+    "Products":[{
+      "id": 1,
+      "name": "Apple Macbook Air",
+      "photograph1":"https://m.media-amazon.com/images/I/81DKTbwGHpL._AC_SL1500_.jpg",
+      "description":"2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad",
+      "Price":"94,900 Rs",
+      "reviews": [{
+          "name": "Mark",
+          "date": "October 26, 2021",
+          "rating": 4,
+          "comments": "If we could get it for around 70-75k with some kind of discount that would b huge.. anyways, super excited."
+        }
+      ]
+    }, {
+      "id": 2,
+      "name": "Apple Macbook Pro",
+      "photograph1":"https://m.media-amazon.com/images/I/71an9eiBxpL._AC_SL1500_.jpg",
+      "description":"T2020 Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+      "Price":"1,24,900 Rs",
+      "reviews": [{
+          "name": "Steph",
+          "date": "Jan 26, 2021",
+          "rating": 5,
+          "comments": "Apples attention to detail is outstanding. M1 chip wow! Went with space grey to prevent reflection on screen. So many new cool features."
+        }
+      ]
+    }, {
+      "id": 3,
+      "name": "Apple Watch series 7",
+      "photograph1":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/45-cell-alum-red-sport-red-s7?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1631855687000",
+      "description":"Apple Watch Series 7 (GPS + Cellular, 45mm) - (Product) RED Aluminum Case with (Product) RED Sport Band",
+      "Price":"42,900 Rs",
+      "reviews": [{
+          "name": "Steve",
+          "date": "Feb 24, 2021",
+          "rating": 2,
+          "comments": "Battery doesn’t last longer than 24 hours. Pain to keep having to charge it"
+        }
+      ]
+    }, {
+      "id": 4,
+      "name": "Apple iPhone 13 (256GB)",
+      "photograph1":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-mini-green-select?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1645036275894",
+      "description":"Apple iPhone 13 (256GB)",
+      "Price":"79,900 Rs",
+      "reviews": [{
+          "name": "Francis",
+          "date": "March 25, 2022",
+          "rating": 4,
+          "comments": "I do not have money that I can get a phone but I have a dream to get a phone which will definitely be fulfilled one day"
+        }
+      ]
+    }, {
+      "id": 5,
+      "name": "Zebronics Zeb Fitness Watch",
+      "photograph1":"https://cdn.shopify.com/s/files/1/0356/9850/7909/products/Zeb-Fit280CH-pic2_1024x1024.jpg?v=1646822394",
+      "description":"Zebronics Zeb-FIT5220CH Smart Fitness Watch, 2.5D Curved Glass 4.4cm Large Square Display, Metal Body, Dual Menu UI, 7-Day Data Storage, 8 Sports Mode, SpO2, BP & HR Monitor, (Gold)",
+      "Price":"2,999 Rs",
+      "reviews": [{
+          "name": "John",
+          "date": "October 30, 2021",
+          "rating": 4,
+          "comments": "The smartwatch delivers what it promises. Awesome smooth UI, fitness trackers are not that accurate & reliable but good enough for this price range. The best part is metal bracelet finishing which feels premium."
+        }
+      ]
+    }, {
+      "id": 6,
+      "name": "Lenovo Casual Briefcase",
+      "photograph1":"https://m.media-amazon.com/images/I/717BACPIdyL._SX425_.jpg",
+      "description":"Lenovo Casual Laptop Briefcase T210 (Toploader) 39.62 cm (15.6-inch) Water Repellent Black",
+      "Price":"929 Rs",
+      "reviews": [{
+          "name": "Adam",
+          "date": "September 30, 2020",
+          "rating": 4,
+          "comments": "It’s a decent bag, delivered in a day. But the price was higher when I purchased and it dropped the next day to ₹729. I bought for a higher price which is very disappointing."
+        }
+      ]
+    }
+    ]
+  }
